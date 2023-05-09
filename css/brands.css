@@ -92,6 +92,17 @@ button:hover,
     filter: brightness(90%);
   }
 
+  /* 42 */
+.button.button-42 {
+  color: #ffffff;
+  background-color: #32C7C9;
+}
+
+.button.button-42:hover,
+  .button.button-42:focus {
+    filter: brightness(90%);
+  }
+
 /* GitHub */
 .button.button-github {
   color: #ffffff;
@@ -112,6 +123,17 @@ button:hover,
 
 .button.button-gitlab:hover,
   .button.button-gitlab:focus {
+    filter: brightness(90%);
+  }
+
+/* Hack The Box */
+.button.button-htb {
+  color: #ffffff;             /* #9FEF01 */
+  background-color: #1A2332;
+}
+
+.button.button-htb:hover,
+  .button.button-htb:focus {
     filter: brightness(90%);
   }
 
@@ -146,5 +168,26 @@ button:hover,
 
 .button.button-telegram:hover,
   .button.button-telegram:focus {
+    filter: brightness(90%);
+  }
+
+/* TryHackMe */
+.button.button-thm {
+  color: #ffffff;
+  background-color: #BF0D0E;
+}
+.button.button-thm:hover,
+  .button.button-thm:focus {
+    filter: brightness(90%);
+  }
+
+  /* Obsidian */
+.button.button-obsidian {
+  color: #ffffff;
+  background-color: #483699;
+}
+
+.button.button-obsidian:hover,
+  .button.button-obsidian:focus {
     filter: brightness(90%);
   }
