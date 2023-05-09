@@ -75,6 +75,7 @@ button:hover,
   vertical-align: middle;
   width: 20px;
   height: 20px;
+  filter: invert(1);
 }
 
 /* Brand Styles
