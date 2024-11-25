@@ -118,7 +118,7 @@ button:hover,
 /* GitLab */
 .button.button-gitlab {
   color: #ffffff;
-  background-color: #6151b2;
+  background-color: #fc6d26;
 }
 
 .button.button-gitlab:hover,
@@ -157,6 +157,18 @@ button:hover,
 
 .button.button-notion:hover,
   .button.button-notion:focus {
+    filter: brightness(90%);
+  }
+
+/* Proton Mail */
+
+.button.button-protonmail {
+  color: #ffffff;
+  background-color: #6d4aff;
+}
+
+.button.button-protonmail:hover,
+  .button.button-protonmail:focus {
     filter: brightness(90%);
   }
 
