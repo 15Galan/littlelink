@@ -160,6 +160,18 @@ button:hover,
     filter: brightness(90%);
   }
 
+/* Proton Mail */
+
+.button.button-protonmail {
+  color: #ffffff;
+  background-color: #6d4aff;
+}
+
+.button.button-protonmail:hover,
+  .button.button-protonmail:focus {
+    filter: brightness(90%);
+  }
+
 /* Telegram */
 .button.button-telegram {
   color: #ffffff;
